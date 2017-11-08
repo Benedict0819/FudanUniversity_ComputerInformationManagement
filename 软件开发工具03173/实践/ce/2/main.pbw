@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "ctest1.pbt";
+ 1 "ctest3.pbt";
 @end;
-DefaultTarget "ctest1.pbt";
-DefaultRemoteTarget "ctest1.pbt";
+DefaultTarget "ctest3.pbt";
+DefaultRemoteTarget "ctest3.pbt";
