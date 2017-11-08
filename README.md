@@ -7,8 +7,14 @@
 
 
 
+
+
 # 官网（公告 ）
 http://www.cce.fudan.edu.cn/
+
+
+# 重要网站
+http://www.shzkw.org/
 
 
 # 专业说明
@@ -33,3 +39,4 @@ http://www.cce.fudan.edu.cn/d9/2d/c13239a121133/page.htm
 
 # 2017年下半年复旦大学高等教育自学考试考后信息
 http://www.cce.fudan.edu.cn/d9/2e/c13239a121134/page.htm
+
