@@ -1,9 +1,0 @@
-Save Format v3.0(19990112)
-@begin Unchecked
-@end;
-@begin Targets
- 0 "ctest1.pbt";
- 1 "ctest3.pbt";
-@end;
-DefaultTarget "ctest3.pbt";
-DefaultRemoteTarget "ctest3.pbt";
