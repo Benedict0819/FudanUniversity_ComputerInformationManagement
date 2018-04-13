@@ -1,5 +1,5 @@
 # FudanUniversity_ComputerInformationManagement
-复旦大学【计算机信息管理】本科（自考）流程和考试材料汇总
+复旦大学【B082208计算机信息管理】独立本科段（自考）流程和考试材料汇总
 
 
 
@@ -33,6 +33,10 @@
 
 # 专业说明
 http://www.021xueli.com/zikao/b082208.html
+
+
+# 上海市高等教育自学考试专业分类公告（2018）-（复旦大学相关专业）
+http://www.cce.fudan.edu.cn/12/92/c13239a135826/page.htm
 
 
 # 官网（公告 ）
